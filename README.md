@@ -1,4 +1,4 @@
-# 🚀 FlytBase Turtle PID Navigation
+# 🚀 Python Turtle PID Navigation
 
 ## 📌 Overview
 This project implements **PID-based navigation** for a turtle in a 2D space, simulating **robotic path-following and grid-based movement**. 
